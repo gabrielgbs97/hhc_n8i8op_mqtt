@@ -1,0 +1,6 @@
+---
+# relay_boards:
+#   - 192.168.1.103
+relay_boards:
+  - {ip: "192.168.1.30", name: placa_rele_1}
+  - {ip: "192.168.1.31", name: placa_rele_2}
